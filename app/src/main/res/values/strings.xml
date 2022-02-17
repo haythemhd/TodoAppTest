@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoAppTest</string>
+    <string name="add_todo">Add a Todo</string>
+    <string name="success_add">"Todo created "</string>
+</resources>
